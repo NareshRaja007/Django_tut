@@ -1,2 +1,4 @@
-hlo
-how r u
+git add
+git commit -m "msg"
+git push
+added 1 more 
